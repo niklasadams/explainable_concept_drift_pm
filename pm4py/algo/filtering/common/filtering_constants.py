@@ -1,0 +1,4 @@
+from pm4py.util.constants import CASE_CONCEPT_NAME
+
+DECREASING_FACTOR = 0.6
+DEFAULT_NOISE_THRESH_DF = 0.16
