@@ -1,11 +1,11 @@
 # explainable_concept_drift_pm
-This is the implementaiton of the Framework for Explainable Concept Drift Detection for Process Mining Paper, built ontop of PM4Py https://pm4py.fit.fraunhofer.de/.
+This is the implementation of the Framework for Explainable Concept Drift Detection for Process Mining Paper https://arxiv.org/pdf/2105.13155.pdf, built ontop of PM4Py https://pm4py.fit.fraunhofer.de/.
 ## Installation
 Under Python 3.7, use pip to install the requirements
 ```bash
 pip install -r requirements.txt
 ```
-If you use anaconda just run the commands specified in setup.txt, this will setup a new environment under pyhton 3.7 and instlal all required packages.
+If you use anaconda just run the commands specified in setup.txt, this will setup a new environment under pyhton 3.7 and install all required packages.
 
 ## Usage
 To run the two examples specified in the paper, run either
